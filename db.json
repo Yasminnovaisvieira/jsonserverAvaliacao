@@ -7,7 +7,7 @@
             "fundadores": [
                 "Sergio Zimerman"
             ],
-            "imagem": "assets/images/petz.svg",
+            "imagem": "assets/images/petz.png",
             "servicos_principais": [
                 "Banho e tosa",
                 "Clínica veterinária",
@@ -22,7 +22,7 @@
             "fundadores": [
                 "Nuncio Giannattasio"
             ],
-            "imagem": "assets/images/cobasi.svg",
+            "imagem": "assets/images/cobasi.png",
             "servicos_principais": [
                 "Farmácia pet",
                 "Banho e tosa",
@@ -37,7 +37,7 @@
             "fundadores": [
                 "Grupo Petzoo"
             ],
-            "imagem": "assets/images/petzoo.svg",
+            "imagem": "assets/images/petzoo.png",
             "servicos_principais": [
                 "Entrega nacional",
                 "Programa de fidelidade",
@@ -52,7 +52,7 @@
             "fundadores": [
                 "Grupo Petz Park"
             ],
-            "imagem": "assets/images/petzpark.svg",
+            "imagem": "assets/images/petzpark.png",
             "servicos_principais": [
                 "Hotel para pets",
                 "Creche canina",
@@ -67,7 +67,7 @@
             "fundadores": [
                 "Marcio Waldman"
             ],
-            "imagem": "assets/images/petlove.svg",
+            "imagem": "assets/images/petlove.png",
             "servicos_principais": [
                 "Clube de descontos",
                 "Assinatura recorrente",
@@ -83,7 +83,7 @@
                 "Eduardo Baer",
                 "André Bianchi"
             ],
-            "imagem": "assets/images/doghero.svg",
+            "imagem": "assets/images/doghero.png",
             "servicos_principais": [
                 "Hospedagem",
                 "Passeios",
@@ -98,7 +98,7 @@
             "fundadores": [
                 "Grupo Petz Anjo"
             ],
-            "imagem": "assets/images/petzanjo.svg",
+            "imagem": "assets/images/petzanjo.png",
             "servicos_principais": [
                 "Consultoria nutricional",
                 "Banho e tosa",
@@ -113,7 +113,7 @@
             "fundadores": [
                 "Grupo Agroline"
             ],
-            "imagem": "assets/images/agroline.svg",
+            "imagem": "assets/images/agroline.png",
             "servicos_principais": [
                 "Medicamentos veterinários",
                 "Rações",
@@ -128,7 +128,7 @@
             "fundadores": [
                 "Grupo Petz Mania"
             ],
-            "imagem": "assets/images/petzmania.svg",
+            "imagem": "assets/images/petzmania.png",
             "servicos_principais": [
                 "Brinquedos",
                 "Higiene pet",
@@ -143,7 +143,7 @@
             "fundadores": [
                 "Grupo Tudo de Bicho"
             ],
-            "imagem": "assets/images/tudodebicho.svg",
+            "imagem": "assets/images/tudodebicho.png",
             "servicos_principais": [
                 "Aquarismo",
                 "Produtos para aves",
@@ -158,7 +158,7 @@
             "fundadores": [
                 "Grupo Meu Pet Club"
             ],
-            "imagem": "assets/images/meupetclub.svg",
+            "imagem": "assets/images/meupetclub.png",
             "servicos_principais": [
                 "Caixa mensal personalizada",
                 "Snacks naturais",

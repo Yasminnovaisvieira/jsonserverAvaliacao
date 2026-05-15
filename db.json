@@ -1,0 +1,171 @@
+{
+    "petshops": [
+        {
+            "id": "1",
+            "nome": "Petz",
+            "descricao": "Uma das maiores redes de pet shop do Brasil, oferecendo produtos, serviços veterinários e estética animal.",
+            "fundadores": [
+                "Sergio Zimerman"
+            ],
+            "imagem": "assets/images/petz.svg",
+            "servicos_principais": [
+                "Banho e tosa",
+                "Clínica veterinária",
+                "Entrega rápida"
+            ],
+            "promocoes": "Até 50% OFF em rações e petiscos selecionados no app."
+        },
+        {
+            "id": "2",
+            "nome": "Cobasi",
+            "descricao": "Rede tradicional especializada em produtos para pets, jardinagem e casa.",
+            "fundadores": [
+                "Nuncio Giannattasio"
+            ],
+            "imagem": "assets/images/cobasi.svg",
+            "servicos_principais": [
+                "Farmácia pet",
+                "Banho e tosa",
+                "Retirada em loja"
+            ],
+            "promocoes": "Frete grátis para compras acima de R$ 149."
+        },
+        {
+            "id": "3",
+            "nome": "Petzoo",
+            "descricao": "Pet shop online com ampla variedade de produtos para cães, gatos, aves e roedores.",
+            "fundadores": [
+                "Grupo Petzoo"
+            ],
+            "imagem": "assets/images/petzoo.svg",
+            "servicos_principais": [
+                "Entrega nacional",
+                "Programa de fidelidade",
+                "Ofertas semanais"
+            ],
+            "promocoes": "Compre 2 brinquedos e ganhe 10% de desconto no terceiro."
+        },
+        {
+            "id": "4",
+            "nome": "Petz Park",
+            "descricao": "Loja focada em bem-estar animal com serviços premium para pets.",
+            "fundadores": [
+                "Grupo Petz Park"
+            ],
+            "imagem": "assets/images/petzpark.svg",
+            "servicos_principais": [
+                "Hotel para pets",
+                "Creche canina",
+                "Banho premium"
+            ],
+            "promocoes": "Primeira diária no hotel pet com 20% OFF."
+        },
+        {
+            "id": "5",
+            "nome": "Petlove",
+            "descricao": "Maior e-commerce pet do Brasil, conhecido pela assinatura recorrente de produtos.",
+            "fundadores": [
+                "Marcio Waldman"
+            ],
+            "imagem": "assets/images/petlove.svg",
+            "servicos_principais": [
+                "Clube de descontos",
+                "Assinatura recorrente",
+                "Telemedicina veterinária"
+            ],
+            "promocoes": "Desconto exclusivo na primeira assinatura recorrente."
+        },
+        {
+            "id": "6",
+            "nome": "Dog Hero",
+            "descricao": "Plataforma especializada em hospedagem domiciliar e serviços para cães.",
+            "fundadores": [
+                "Eduardo Baer",
+                "André Bianchi"
+            ],
+            "imagem": "assets/images/doghero.svg",
+            "servicos_principais": [
+                "Hospedagem",
+                "Passeios",
+                "Creche"
+            ],
+            "promocoes": "Ganhe R$ 30 de desconto na primeira hospedagem."
+        },
+        {
+            "id": "7",
+            "nome": "Petz Anjo",
+            "descricao": "Rede focada em produtos premium e atendimento personalizado para pets.",
+            "fundadores": [
+                "Grupo Petz Anjo"
+            ],
+            "imagem": "assets/images/petzanjo.svg",
+            "servicos_principais": [
+                "Consultoria nutricional",
+                "Banho e tosa",
+                "Produtos premium"
+            ],
+            "promocoes": "Semana do pet saudável com descontos em rações super premium."
+        },
+        {
+            "id": "8",
+            "nome": "Agroline Pet",
+            "descricao": "Empresa consolidada no segmento pet e agropecuário com atendimento nacional.",
+            "fundadores": [
+                "Grupo Agroline"
+            ],
+            "imagem": "assets/images/agroline.svg",
+            "servicos_principais": [
+                "Medicamentos veterinários",
+                "Rações",
+                "Acessórios"
+            ],
+            "promocoes": "10% OFF em medicamentos veterinários via PIX."
+        },
+        {
+            "id": "9",
+            "nome": "Petz Mania",
+            "descricao": "Pet shop voltado para acessórios, higiene e diversão animal.",
+            "fundadores": [
+                "Grupo Petz Mania"
+            ],
+            "imagem": "assets/images/petzmania.svg",
+            "servicos_principais": [
+                "Brinquedos",
+                "Higiene pet",
+                "Entrega expressa"
+            ],
+            "promocoes": "Leve 3 acessórios e pague apenas 2."
+        },
+        {
+            "id": "10",
+            "nome": "Tudo de Bicho",
+            "descricao": "Loja especializada em produtos para diferentes tipos de animais domésticos.",
+            "fundadores": [
+                "Grupo Tudo de Bicho"
+            ],
+            "imagem": "assets/images/tudodebicho.svg",
+            "servicos_principais": [
+                "Aquarismo",
+                "Produtos para aves",
+                "Rações especiais"
+            ],
+            "promocoes": "Outlet pet com descontos de até 40%."
+        },
+        {
+            "id": "11",
+            "nome": "Meu Pet Club",
+            "descricao": "Clube de assinatura pet com foco em brinquedos, snacks e acessórios personalizados.",
+            "fundadores": [
+                "Grupo Meu Pet Club"
+            ],
+            "imagem": "assets/images/meupetclub.svg",
+            "servicos_principais": [
+                "Caixa mensal personalizada",
+                "Snacks naturais",
+                "Brinquedos exclusivos"
+            ],
+            "promocoes": "Primeira caixa com 25% OFF usando o cupom PETCLUB."
+        }
+    ],
+    "$schema": "./node_modules/json-server/schema.json"
+}
